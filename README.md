@@ -44,7 +44,7 @@ App educativa para iOS, Android y Web en Flutter. Configuracion completa de App 
 
 Pipeline de automatizacion para YouTube Shorts de contenido animal. Generacion de guion con Claude, TTS con ElevenLabs, animacion Wan 2.2 I2V y subida automatica a YouTube. Dashboard FastAPI con SSE en tiempo real.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)re&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
@@ -57,13 +57,13 @@ Pipeline de automatizacion para YouTube Shorts de contenido animal. Generacion d
 ## Otras areas de conocimiento
 
 - Arquitecturas async (Celery + Redis, FastAPI)
-- - App Store & Google Play deployment end-to-end
-  - - Pagos in-app: RevenueCat y Stripe (suscripciones + one-time)
-    - - Sistemas de creditos SaaS y anti-abuso
-      - - CI/CD pipelines para aplicaciones IA
-        - - Prompt engineering y agentes con Claude + Gemini
-          - - Trading algoritmico (Alpaca + Python)
-            - - Automatizacion con n8n y Playwright
+- App Store & Google Play deployment end-to-end
+  - Pagos in-app: RevenueCat y Stripe (suscripciones + one-time)
+    - SSistemas de creditos SaaS y anti-abuso
+      - C/CD pipelines para aplicaciones IA
+        - Prompt engineering y agentes con Claude + Gemini
+          - Trading algoritmico (Alpaca + Python)
+            - Automamatizacion con n8n y Playwright
              
               - ---
 
