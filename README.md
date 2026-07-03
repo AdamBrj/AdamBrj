@@ -69,4 +69,4 @@ Pipeline de automatizacion para YouTube Shorts de contenido animal. Generacion d
 
               ## Contacto
 
-              [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-borjila) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adam.brjl@gmail.com) [![Shortmint](https://img.shields.io/badge/shortmint.ai-6C47FF?style=flat&logoColor=white)](https://shortmint.ai)
+              [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-borjila) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adam.brjl@gmail.com) [![Cortavid](https://img.shields.io/badge/cortavid.com-6C47FF?style=flat&logoColor=white)](https://cortavid.com)
